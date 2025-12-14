@@ -3,9 +3,9 @@
 
     <div class="container mx-auto px-6 lg:px-20"></div>
 
-        <div class="container mx-w-2x1">
+        <div class="mx-w-2x1">
             <h1 class="text-5x1 font-extrabold mb-6">
-                Build Your Dream Web Projects
+                PUSHING CLONE INTO GIT
             </h1>
         <p class="text-lg mb-8 text-gray-100">
             Lern model web development with full stack courses, hands-on projects, and expert guidance.Start building real applications today!</p>
